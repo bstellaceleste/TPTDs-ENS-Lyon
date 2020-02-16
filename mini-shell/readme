@@ -1,0 +1,1 @@
+gcc minishell.c shell_asr2.c -o minishell -Wall -lreadline
